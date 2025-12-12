@@ -1,3 +1,3 @@
 # Binance
 ## API Integration 
-* Integrating Binance Pay Into E-commerce Store *
+*Integrating Binance Pay Into E-commerce Store*
